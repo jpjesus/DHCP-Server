@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<servidorConf>
+   <ser puerto="5555" protocolo="udp" ip="192.168.1.114" red="192.168.1.0" mascara= "255.255.255.0" rangoi="192.168.1.115" rangof="192.168.1.125" enroutador="192.168.1.254" dns="8.8.8.8" tiempo="600" />
+</servidorConf>

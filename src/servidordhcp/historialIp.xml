@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<historialIp>
+  <hist ip="192.168.1.115" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:03" fecha_fin="28/01/14 13:13" />
+  <hist ip="192.168.1.116" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:03" fecha_fin="28/01/14 13:13" />
+  <hist ip="192.168.1.117" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:51" fecha_fin="28/01/14 14:01" />
+  <hist ip="192.168.1.118" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:57" fecha_fin="28/01/14 14:07" />
+  <hist ip="192.168.1.119" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:57" fecha_fin="28/01/14 14:07" />
+  <hist ip="192.168.1.120" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 13:58" fecha_fin="28/01/14 14:08" />
+  <hist ip="192.168.1.121" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:16" fecha_fin="28/01/14 14:26" />
+  <hist ip="192.168.1.122" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:19" fecha_fin="28/01/14 14:29" />
+  <hist ip="192.168.1.123" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:27" fecha_fin="28/01/14 14:37" />
+  <hist ip="192.168.1.124" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:28" fecha_fin="28/01/14 14:38" />
+  <hist ip="192.168.1.125" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:30" fecha_fin="28/01/14 14:40" />
+  <hist ip="No hay direcciones ip disponibles" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:31" fecha_fin="28/01/14 14:41" />
+  <hist ip="No hay direcciones ip disponibles" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:32" fecha_fin="28/01/14 14:42" />
+  <hist ip="No hay direcciones ip disponibles" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:32" fecha_fin="28/01/14 14:42" />
+  <hist ip="No hay direcciones ip disponibles" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:39" fecha_fin="28/01/14 14:49" />
+  <hist ip="No hay direcciones ip disponibles" mac="08:00:27:c7:59:43" fecha_inicio="28/01/14 14:41" fecha_fin="28/01/14 14:51" />
+</historialIp>
